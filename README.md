@@ -3,6 +3,6 @@ GROUP MEMBERS : Patel Nishtha - KU2407U659; Vishwa Vihol - KU2407U236; Parmar Ma
 OBJECT OF THE PROJECT : understanding long-term trends; Improving Weather Forecasting; Supporting Climate Research; Informing Decision- Making in Various Sector; Educational and Outreach Purpose
 TOOLS AND LIBRARIES USED : chat gpt, gemini , copilot
 DATA SOURCE : Some government link, windyy,
-EXECUTION STEPS : with the help of coompiler
+EXECUTION STEPS : with the help of visual studio code 
 SUMMARY OF RESUlTS : graph
 CHALLENGES FACED : executing the code
